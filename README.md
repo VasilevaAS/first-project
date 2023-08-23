@@ -20,6 +20,6 @@
 - Поинт 1
 - Поинт 2
 
-Ссылка: [Яндекс](https://www.yandex.ru "Я Yandex!"
+Ссылка: [Яндекс](https://www.yandex.ru "Я Yandex!")
 
-```html code    ```)
+```html code    ```
